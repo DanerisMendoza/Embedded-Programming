@@ -1,4 +1,4 @@
-int led = 2, button = 3;
+int button = 2, led = 3;
 bool pressed = false;
 void setup() {
 pinMode(led, OUTPUT);
